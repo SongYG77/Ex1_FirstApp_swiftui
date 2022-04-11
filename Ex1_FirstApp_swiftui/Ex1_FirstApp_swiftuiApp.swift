@@ -8,6 +8,7 @@
 import SwiftUI
 
 @main
+//프로젝트 시작점
 struct Ex1_FirstApp_swiftuiApp: App {
     var body: some Scene {
         WindowGroup {
